@@ -32,7 +32,7 @@ welcome to send a request to add papers and relevant content.
 - **KBP 2017**: is an English nested NER corpus including text from news, discussion forum, web blog, tweets and scientific literature. It includes five entity types, i.e., Person, Geopolitical Entity, Organization, Location, and Facility. [[Download]]() [[Paper]](https://tac.nist.gov/publications/2017/additional.papers/TAC2017.KBP_Entity_Discovery_and_Linking_overview.proceedings.pdf)
 
 ## Plat NER
-- **CoNLL 2003**: is an English flat NER benchmark with four entity types, i.e., Person, Organization, Location and Miscellaneous. [[Download]](https://github.com/synalp/NER/tree/master/corpus/CoNLL-2003) [[Paper]](https://aclanthology.org/W03-0419/)
+- **CoNLL 2003**: is an English flat NER benchmark with four entity types, i.e., Person, Organization, Location and Miscellaneous. [[Download]](https://github.com/synalp/NER/tree/master/corpus/CoNLL-2003) [[Paper]](https://aclanthology.org/W03-0419/)[Introduction]](https://www.clips.uantwerpen.be/conll2003/ner/?spm=a2c6h.12873639.article-detail.7.2ef269a0HptLHq)
 
 - **OntoNotes 5** is a large-scale English flat NER benchmark, which has 18 entity types. [[Download]](https://catalog.ldc.upenn.edu/LDC2013T19)
 
