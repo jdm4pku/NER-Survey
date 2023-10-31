@@ -36,6 +36,10 @@ welcome to send a request to add papers and relevant content.
 
 - **OntoNotes 5** is a large-scale English flat NER benchmark, which has 18 entity types. [[Download]](https://catalog.ldc.upenn.edu/LDC2013T19)
 
+* **CTIReport** 
+
+* **WNUT17**
+
 ## Chinese NER
 - Weibo NER: is a Chinese flat NER dataset selected from Weibo. [[Download]](https://github.com/hltcoe/golden-horse)
 
